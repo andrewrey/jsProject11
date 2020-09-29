@@ -1,0 +1,16 @@
+{
+  "name": "project11_infinitescrollpost",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass:watch": "node-sass -w scss/styles.scss css/styles.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
